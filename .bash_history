@@ -18,3 +18,8 @@ git push -u origin main
 clear
 git init
 git add
+git add . 
+git commit -m "Initial commit"
+git remote add origin https://github.com/TamiCN/events-app-internal.git
+git push -u origin main
+git init 
